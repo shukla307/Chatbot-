@@ -16,19 +16,7 @@ You can install the required libraries using pip:
 <img width="507" alt="image" src="https://github.com/user-attachments/assets/e0032e42-75db-4b7d-8673-37afeaf75823">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 
 
 
 
